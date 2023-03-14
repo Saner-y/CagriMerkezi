@@ -1,2 +1,2 @@
-200601021
-Saner Yeşil
+# Çağrı Merkezi
+Bu projede C# kullanarak basit bir çağrı merkezi sistemi tasarladım.
